@@ -45,7 +45,6 @@ This project is strictly for **academic or research purposes only**. Since it bu
 - The training process was computationally intensive and required powerful hardware:
   - **GPU Used**: NVIDIA Tesla V100 / A100 (as per official paper indications).
   - **Training Duration**: Approximately **4–6 days** on a single high-end GPU setup.
-- The architecture combines **Geometric Matching Module (GMM)** and **Try-on Module (TOM)**, each responsible for garment warping and realistic image generation respectively.
 - All inference in this project is done using **pre-trained models** — no additional training is required.
 - The project supports **modular preprocessing and inference**, making it suitable for both research experiments and hackathon demos.
 
