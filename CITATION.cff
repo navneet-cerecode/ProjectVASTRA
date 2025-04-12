@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use HR-VITON in your research, please cite the following paper."
+title: "High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions"
+authors:
+  - family-names: Lee
+    given-names: Sangyun
+  - family-names: Gu
+    given-names: Gyojung
+  - family-names: Park
+    given-names: Sunghyun
+  - family-names: Choi
+    given-names: Seunghwan
+  - family-names: Choo
+    given-names: Jaegul
+date-released: 2022-06-28
+doi: 10.48550/arXiv.2206.14180
+url: https://github.com/sangyun884/HR-VITON
+repository-code: https://github.com/sangyun884/HR-VITON
+license: "All rights reserved"
