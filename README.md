@@ -51,4 +51,6 @@ This project is strictly for **academic or research purposes only**. Since it bu
 
 ---
 
+![Sample](figure/sample.jpg)
+
 Feel free to raise issues or pull requests if you'd like to improve or contribute!
